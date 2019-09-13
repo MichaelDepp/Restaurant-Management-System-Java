@@ -1,0 +1,16 @@
+NG28
+nasi briyani
+8.99
+3.49
+NL57
+nasi lemak
+4.99
+2.5
+RC73
+roti canai
+1.5
+0.8
+RT18
+rava thosai
+2.8
+1.2
