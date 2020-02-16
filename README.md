@@ -33,9 +33,3 @@ This Restaurant Management system is fully build in Java for my Object Oriented 
 10. You can enter Q to quit the program when you are in the main screen.
 
 11. I have also provided the program in a executable .bat file. You can find it inside the "../dist" path. You can just run the .bat file to see how the full program works in cmd.
-
-
-If you like my contribution hmu
-
-	- twitter @michael_depp
-	- instagram @realmichaeldepp
